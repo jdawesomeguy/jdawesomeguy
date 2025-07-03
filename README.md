@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James D'Atri
-- 👀 I’m an undergrad graduate of Rensselaer Polytechnic Institute as a Computer Science/Communications, Media, and Design Dual major.
+- 👀 I’m a graduate of Rensselaer Polytechnic Institute as a Computer Science/Communications, Media, and Design Dual major.
 - 📫 How to reach me: james.datri213@gmail.com
 
 <!---
